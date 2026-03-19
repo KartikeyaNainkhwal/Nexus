@@ -29,22 +29,22 @@ export default function AuthLayout({ children }: { children: React.ReactNode }) 
         <div className="flex-1 flex flex-col justify-center max-w-xl">
           <div className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-accent-light border border-accent/10 text-xs font-bold text-accent-text mb-6 shadow-sm w-fit">
             <Sparkles className="h-3.5 w-3.5" />
-            The ultimate SaaS foundation
+            Your team's command center
           </div>
 
           <h1 className="text-5xl lg:text-6xl font-display font-black leading-[1.1] mb-8 text-text-primary tracking-tight">
-            Ship your SaaS<br />
+            Manage projects,<br />
             <span className="bg-clip-text text-transparent bg-gradient-to-r from-accent to-[#a855f7]">
-              faster than ever.
+              ship faster together.
             </span>
           </h1>
 
           <div className="space-y-5 mb-16">
             {[
-              "Multi-tenant architecture built-in",
-              "Role-based access control out of the box",
-              "Razorpay global billing ready",
-              "Deploy to production in minutes"
+              "Kanban boards & task management",
+              "Team collaboration with role-based access",
+              "Time tracking & invoicing built-in",
+              "Real-time analytics & goal tracking"
             ].map((feature, i) => (
               <div key={i} className="flex items-center gap-3 text-text-secondary text-base font-medium">
                 <CheckCircle2 className="h-5 w-5 text-emerald-500 shrink-0" />
@@ -62,7 +62,7 @@ export default function AuthLayout({ children }: { children: React.ReactNode }) 
             ))}
           </div>
           <p className="italic text-text-primary text-lg font-medium mb-6 leading-relaxed">
-            &quot;Nexus completely transformed how we ship products. We saved months of development time and focused entirely on our core business logic from day one.&quot;
+            &quot;Nexus brought our entire workflow under one roof — tasks, docs, invoices, and time tracking. Our team finally stopped context-switching and started shipping.&quot;
           </p>
           <div className="flex items-center gap-4">
             <Avatar className="h-12 w-12 border-2 border-white shadow-sm">
