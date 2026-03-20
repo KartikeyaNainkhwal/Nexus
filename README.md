@@ -34,8 +34,54 @@
   <a href="#-database-design"><b>Database</b></a> •
   <a href="#-features"><b>Features</b></a> •
   <a href="#-tech-stack"><b>Tech Stack</b></a> •
-  <a href="#-getting-started"><b>Setup</b></a>
+  <a href="#-getting-started"><b>Setup</b></a> •
+  <a href="#-app-interface"><b>Screenshots</b></a>
 </p>
+
+---
+
+## 📸 App Interface
+
+<p align="center">
+  <img src="screenshots/Nexus1.png" alt="Nexus Screenshot 1" width="100%" style="border-radius: 8px; margin-bottom: 20px" />
+</p>
+
+<details>
+<summary><b>✨ View More Screenshots</b></summary>
+<br>
+
+<table align="center">
+  <tr>
+    <td width="50%"><img src="screenshots/Nexus2.png" alt="Screenshot 2" style="border-radius: 8px;" /></td>
+    <td width="50%"><img src="screenshots/Nexus3.png" alt="Screenshot 3" style="border-radius: 8px;" /></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="screenshots/Nexus4.png" alt="Screenshot 4" style="border-radius: 8px;" /></td>
+    <td width="50%"><img src="screenshots/Nexus5.png" alt="Screenshot 5" style="border-radius: 8px;" /></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="screenshots/Nexus6.png" alt="Screenshot 6" style="border-radius: 8px;" /></td>
+    <td width="50%"><img src="screenshots/Nexus7.png" alt="Screenshot 7" style="border-radius: 8px;" /></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="screenshots/Nexus8.png" alt="Screenshot 8" style="border-radius: 8px;" /></td>
+    <td width="50%"><img src="screenshots/Nexus9.png" alt="Screenshot 9" style="border-radius: 8px;" /></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="screenshots/Nexus10.png" alt="Screenshot 10" style="border-radius: 8px;" /></td>
+    <td width="50%"><img src="screenshots/Nexus11.png" alt="Screenshot 11" style="border-radius: 8px;" /></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="screenshots/Nexus12.png" alt="Screenshot 12" style="border-radius: 8px;" /></td>
+    <td width="50%"><img src="screenshots/Nexus13.png" alt="Screenshot 13" style="border-radius: 8px;" /></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="screenshots/Nexus14.png" alt="Screenshot 14" style="border-radius: 8px;" /></td>
+    <td width="50%"><img src="screenshots/Nexus15.png" alt="Screenshot 15" style="border-radius: 8px;" /></td>
+  </tr>
+</table>
+
+</details>
 
 ---
 
